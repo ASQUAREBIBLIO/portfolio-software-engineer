@@ -2,7 +2,7 @@ const Hero = () => {
   return (
     <div className="hero relative z-40 px-2 flex justify-center items-center w-full bg-gradient-to-b from-slate-100 to-slate-50 sm:px-10">
       <div className="text-center">
-        <h1 className="text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-slate-400 to-slate-900 md:text-9xl animate-left_right">
+        <h1 className="text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-red-400 to-slate-900 md:text-9xl animate-left_right">
           Astore.
         </h1>
         <h3 className="text-4xl font-bold text-slate-700 md:text-6xl animate-right_left">
